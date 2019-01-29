@@ -1,0 +1,1 @@
+This program builds a UTSC CMS student's timetable for the next four years. It is a work in progress.
